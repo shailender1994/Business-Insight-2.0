@@ -50,7 +50,7 @@ AtliQ Hardware is a rapidly growing hardware manufacturing company seeking to en
 - 📥 Live Excel download link
 - 🧾 Quick reference for data structure and transformation logic  
 
-![Info Page](https://github.com/shailender1994/Business-Insight-2.0/blob/main/3-Information%20view.png)
+![Info Page](https://github.com/shailender1994/Business-Insight-2.0/blob/main/2-Information%20Page.png)
 
 ---
 
@@ -100,7 +100,7 @@ AtliQ Hardware is a rapidly growing hardware manufacturing company seeking to en
 
 ---
 
-## 🛠 Support Page *(New)*  
+## 🛠 Support Page
 - Submit feedback, issues, feature requests  
 - Learning links for Power BI  
 - Support overlay with help buttons (via bookmarks)  
